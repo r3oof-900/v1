@@ -21,6 +21,7 @@ export const brands: Brand[] = [
   { id: "amazfit", name: "Amazfit", nameAr: "امازفت", slug: "amazfit", logo: "/images/brands/amazfit.svg", country: "CN", featured: false },
   { id: "dji", name: "DJI", nameAr: "دي جي آي", slug: "dji", logo: "/images/brands/dji.svg", country: "CN", featured: false },
   { id: "oraimo", name: "Oraimo", nameAr: "اورايمو", slug: "oraimo", logo: "/images/brands/oraimo.svg", country: "CN", featured: false },
+  { id: "amazon", name: "Amazon", nameAr: "أمازون", slug: "amazon", logo: "/images/brands/amazon.svg", country: "US", featured: false },
 ];
 
 export function getBrandById(id: string): Brand | undefined {

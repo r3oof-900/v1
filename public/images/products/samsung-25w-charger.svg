@@ -1,7 +1,15 @@
-<svg width="600" height="600" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" fill="#f8f9fa"/>
-  <rect x="250" y="200" width="100" height="150" rx="10" fill="#e2e8f0"/>
-  <circle cx="300" cy="275" r="20" fill="#cbd5e1"/>
-  <text x="50%" y="420" font-family="Arial, sans-serif" font-size="24" fill="#94a3b8" text-anchor="middle">صورة المنتج غير متوفرة</text>
-  <text x="50%" y="460" font-family="Arial, sans-serif" font-size="16" fill="#94a3b8" text-anchor="middle">Arjwan Electronics</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <rect width="400" height="400" fill="#F8F9FA"/>
+  <g transform="translate(130,60)">
+    <rect x="20" y="20" width="100" height="120" rx="12" fill="#F0F0F0" stroke="#E0E0E0" stroke-width="2"/>
+    <rect x="30" y="30" width="80" height="100" rx="8" fill="#FAFAFA"/>
+    <rect x="55" y="145" width="30" height="40" rx="3" fill="#DDD"/>
+    <rect x="60" y="150" width="20" height="8" rx="2" fill="#999"/>
+    <rect x="55" y="190" width="30" height="40" rx="3" fill="#DDD"/>
+    <rect x="60" y="195" width="20" height="8" rx="2" fill="#999"/>
+    <text x="70" y="75" text-anchor="middle" fill="#1A1A1A" font-size="11" font-family="system-ui" font-weight="700">25W</text>
+    <text x="70" y="95" text-anchor="middle" fill="#6B7280" font-size="8" font-family="system-ui">Super Fast</text>
+    <text x="70" y="110" text-anchor="middle" fill="#6B7280" font-size="8" font-family="system-ui">Charging</text>
+  </g>
+  <text x="200" y="350" text-anchor="middle" fill="#6B7280" font-size="14" font-family="system-ui" font-weight="600">Samsung 25W Charger</text>
 </svg>

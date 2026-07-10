@@ -15,7 +15,7 @@ export const categories: Category[] = [
       { id: "xiaomi-phones", name: "Xiaomi", nameAr: "شاومي", slug: "xiaomi-phones" },
       { id: "other-phones", name: "Others", nameAr: "أخرى", slug: "other-phones" },
     ],
-    productCount: 4,
+    productCount: 6,
   },
   {
     id: "tablets",
@@ -26,7 +26,7 @@ export const categories: Category[] = [
     image: "/images/categories/tablets.webp",
     color: "#8B5CF6",
     subCategories: [],
-    productCount: 0,
+    productCount: 2,
   },
   {
     id: "laptops",
@@ -37,7 +37,7 @@ export const categories: Category[] = [
     image: "/images/categories/laptops.webp",
     color: "#6366F1",
     subCategories: [],
-    productCount: 0,
+    productCount: 2,
   },
   {
     id: "smart-watches",
@@ -48,7 +48,7 @@ export const categories: Category[] = [
     image: "/images/categories/smart-watches.webp",
     color: "#EC4899",
     subCategories: [],
-    productCount: 2,
+    productCount: 3,
   },
   {
     id: "earbuds",
@@ -59,7 +59,7 @@ export const categories: Category[] = [
     image: "/images/categories/earbuds.webp",
     color: "#F59E0B",
     subCategories: [],
-    productCount: 3,
+    productCount: 4,
   },
   {
     id: "headphones",
@@ -70,7 +70,7 @@ export const categories: Category[] = [
     image: "/images/categories/headphones.webp",
     color: "#EF4444",
     subCategories: [],
-    productCount: 1,
+    productCount: 2,
   },
   {
     id: "chargers",
@@ -85,7 +85,7 @@ export const categories: Category[] = [
       { id: "car-chargers", name: "Car Chargers", nameAr: "شواحن سيارة", slug: "car-chargers" },
       { id: "wireless-chargers", name: "Wireless Chargers", nameAr: "شواحن لاسلكية", slug: "wireless-chargers" },
     ],
-    productCount: 3,
+    productCount: 4,
   },
   {
     id: "cables",
@@ -107,7 +107,7 @@ export const categories: Category[] = [
     image: "/images/categories/power-banks.webp",
     color: "#14B8A6",
     subCategories: [],
-    productCount: 1,
+    productCount: 2,
   },
   {
     id: "routers",
@@ -154,7 +154,7 @@ export const categories: Category[] = [
     image: "/images/categories/smart-home.webp",
     color: "#059669",
     subCategories: [],
-    productCount: 0,
+    productCount: 2,
   },
   {
     id: "streaming",
@@ -165,7 +165,7 @@ export const categories: Category[] = [
     image: "/images/categories/streaming.webp",
     color: "#D946EF",
     subCategories: [],
-    productCount: 0,
+    productCount: 2,
   },
   {
     id: "car-accessories",
@@ -176,7 +176,7 @@ export const categories: Category[] = [
     image: "/images/categories/car-accessories.webp",
     color: "#F97316",
     subCategories: [],
-    productCount: 0,
+    productCount: 2,
   },
 ];
 
